@@ -62,7 +62,7 @@
       "name": "最大资源"
     },
     "yinghua": {
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",  
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
       "name": "樱花资源"
     },
     "wujin": {
@@ -78,7 +78,7 @@
       "name": "iKun资源"
     },
     "lzi": {
-      "api": "https://cj.lziapi.com/api.php/provide/vod",  
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源站"
     },
     "xiaomaomi": {
