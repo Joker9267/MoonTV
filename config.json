@@ -29,7 +29,7 @@
       "detail": "http://ffzy5.tv"
     },
     "zy360": {
-      "api": "https://360zy.com/api.php/provide/vod",
+      "api": "https://360zy.com/api.php/provide/vod",  
       "name": "360资源"
     },
     "maotaizy": {
@@ -46,7 +46,7 @@
       "detail": "https://jszyapi.com"
     },
     "dbzy": {
-      "api": "https://dbzy.tv/api.php/provide/vod",
+      "api": "https://dbzy.tv/api.php/provide/vod",  
       "name": "豆瓣资源"
     },
     "mozhua": {
@@ -70,15 +70,15 @@
       "name": "无尽资源"
     },
     "wwzy": {
-      "api": "https://wwzy.tv/api.php/provide/vod",
+      "api": "https://wwzy.tv/api.php/provide/vod",  
       "name": "旺旺短剧"
     },
     "ikun": {
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "api": "https://ikunzyapi.com/api.php/provide/vod",  
       "name": "iKun资源"
     },
     "lzi": {
-      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "api": "https://cj.lziapi.com/api.php/provide/vod",  
       "name": "量子资源站"
     },
     "xiaomaomi": {
@@ -87,14 +87,14 @@
     },
     "18": {
       "api":"https://api.bwzyz.com/api.php/provide/vod",
-      "nae":"18"  
+      "nae":"18"
     },
     "okziyuan": {
       "api": "https://api.okzyw.net/api.php/provide/vod",
       "name": "ok资源"
     },
     "suoni": {
-      "api": "https://suoniapi.com/api.php/provide/vod",  
+      "api": "https://suoniapi.com/api.php/provide/vod",
       "name": "索尼资源"
     },
     "uku": {
